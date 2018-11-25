@@ -1,4 +1,9 @@
 /*
+	Murilo Martos Mendonça 16063497
+	Joao Pedro Favara 16061921
+	Victor Hugo Nascimento 16100588
+*/
+/*
  *  linux/fs/minix/inode.c
  *
  *  Copyright (C) 1991, 1992  Linus Torvalds

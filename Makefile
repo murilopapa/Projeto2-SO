@@ -1,9 +1,7 @@
-#	Leonardo Carbonari        	13126578
-#	Matheus Franceschini        13129788
-#	Pedro Tortella            	13035555
-#	Tales Falcão            	13146394
-#	Diogo Esteves Furtado     	15153927
-#	Kaíque Ferreira Fávero    	15118698
+#	Murilo Martos Mendonça 16063497
+#	Joao Pedro Favara 16061921
+#	Victor Hugo Nascimento 16100588
+
 
 
 obj-$(CONFIG_MINIX_FS) += minix.o

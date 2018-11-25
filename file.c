@@ -1,7 +1,7 @@
 /*
-	Murilo Martos Mendonça
-	Joao Pedro Favara
-	Victor Hugo Nascimento
+	Murilo Martos Mendonça 16063497
+	Joao Pedro Favara 16061921
+	Victor Hugo Nascimento 16100588
 */
 
 #include "minix.h"
